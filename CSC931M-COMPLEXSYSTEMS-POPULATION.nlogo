@@ -208,7 +208,7 @@ Preys look for food they can encounter in the environment and they must eat food
 
 ## HOW TO USE IT
 
-To change the number of wolves, cows, and leaves, go to the Setup function in the Code. The default setting is set to 5 wolves, 10 cows, 20 leaves.
+To change the number of wolves, cows, and leaves, go to the Setup function in the Code. The default setting is set to 5 wolves, 10 cows, 20 leaves. Click Setup to initialize the agents and the environment, and then click Go to run the simulation.
 
 ## THINGS TO NOTICE
 
